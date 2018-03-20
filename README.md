@@ -8,7 +8,7 @@ https://github.com/danielgindi/Charts/
 
 ➡️ [Video on YouTube](https://youtu.be/GNf-SsDBQ20)
 
-[![Video](https://img.youtube.com/vi/H5c4vo6p5Fg/0.jpg)](https://www.youtube.com/watch?v=GNf-SsDBQ20)
+[![Video](https://img.youtube.com/vi/GNf-SsDBQ20/0.jpg)](https://www.youtube.com/watch?v=GNf-SsDBQ20)
 
 
 
